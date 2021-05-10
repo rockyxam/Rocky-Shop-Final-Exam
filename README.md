@@ -16,7 +16,7 @@ This is a Single Page Appliaction with client-side rendering
 <br>
 <br> YouTube(Instructions on our site): https://youtu.be/QikYhmlAV4g
 <br>
-<br> Heroku: 
+<br> Swagger: https://sleepy-dusk-06573.herokuapp.com/api/swagger-ui/index.html?configUrl=/api/v3/api-docs/swagger-config#/user-controller
 <br>
 
 ## Screenshots: 
