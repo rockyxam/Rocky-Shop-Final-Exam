@@ -18,7 +18,7 @@ This is a Single Page Appliaction with client-side rendering
 <br>
 <br> Swagger: https://sleepy-dusk-06573.herokuapp.com/api/swagger-ui/index.html?configUrl=/api/v3/api-docs/swagger-config#/user-controller
 <br>
-<br> Heroku: https://sleepy-dusk-06573.herokuapp.com
+<br> Heroku backend server: https://sleepy-dusk-06573.herokuapp.com
 <br>
 
 ## Screenshots: 
