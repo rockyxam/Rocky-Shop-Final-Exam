@@ -6,8 +6,6 @@ This is a Single Page Appliaction with client-side rendering
 
 ## Team: 
 <br> Ravshan Khamidov
-<br> Daniiar Arkabaev
-<br> Komoldin Khuzhamberdiev
 
 ## links:
 <br> Figma: https://www.figma.com/file/QsxGit6hicGwQu8riGeKfN/Untitled?node-id=0%3A1
