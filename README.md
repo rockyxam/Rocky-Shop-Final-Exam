@@ -2,7 +2,7 @@
 
 #### A full-stack Online Shop web application using Spring Boot 2 and Angular 7
 This is a Single Page Appliaction with client-side rendering
-<br> This app was created for University Final BackEnd Exam
+<br> This app was created for "Software Architecture & Design patterns" Final Exam
 
 ## Team: 
 <br> Ravshan Khamidov
