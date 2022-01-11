@@ -2,10 +2,10 @@
 
 #### A full-stack Online Shop web application using Spring Boot 2 and Angular 7
 This is a Single Page Appliaction with client-side rendering
-<br> This app was created for "Software Architecture & Design patterns" Final Exam
+<br> This app was created for "HCI" Final Exam
 
 ## Team: 
-<br> Ravshan Khamidov
+<br> Ravshan Khamidov & Daniiar Arkabaev 
 
 ## links:
 <br> Figma: https://www.figma.com/file/QsxGit6hicGwQu8riGeKfN/Untitled?node-id=0%3A1
