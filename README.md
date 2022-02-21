@@ -5,7 +5,7 @@ This is a Single Page Appliaction with client-side rendering
 <br> This app was created for "HCI" Final Exam
 
 ## Team: 
-<br> Ravshan Khamidov & Daniiar Arkabaev 
+<br> Ravshan Khamidov 
 
 ## links:
 <br> Figma: https://www.figma.com/file/QsxGit6hicGwQu8riGeKfN/Untitled?node-id=0%3A1
